@@ -8,7 +8,10 @@ Regarding research activities in the field, my main focus lies in two areas. The
 - 🌱 Currently, I am working on technical aspects related to electromobility and green energy by analyzing the impact of devices used in microgrids equipped with renewable energy sources, energy storage systems, and electric vehicle charging stations on the power system.
 - 💞️ I'm seeking collaboration to conduct practical analyses on the impact of microgrids equipped with renewable energy sources on the energy network. The goal is to optimize the operation of devices within this network by developing dedicated control algorithms.
 - 📫 [LinkedIn](https://www.linkedin.com/in/mariuszbuciakowski/)
-- 🤓 [A company](https://uz.zgora.pl/en/)  
+- 🤓 [A company](https://uz.zgora.pl/en/)
+
+### 📺 Projects
+[Poland’s first energy storage for a bus depot](https://ekoenergetyka.com.pl/polands-first-energy-storage-for-a-bus-depot-eko-bess-from-ekoenergetyka-polska-s-a/?utm_source=linkedin&utm_medium=link&utm_campaign=energy-storage)
 <!---
 buciakowski-research/buciakowski-research is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
