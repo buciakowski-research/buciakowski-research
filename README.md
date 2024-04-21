@@ -8,8 +8,6 @@ Regarding research activities in the field, my main focus lies in two areas. The
 - 🌱 Currently, I am working on technical aspects related to electromobility and green energy by analyzing the impact of devices used in microgrids equipped with renewable energy sources, energy storage systems, and electric vehicle charging stations on the power system.
 - 💞️ "I'm seeking collaboration to conduct practical analyses on the impact of microgrids equipped with renewable energy sources on the energy network. The goal is to optimize the operation of devices within this network by developing dedicated control algorithms.
 - 📫 How to reach me: m.buciakowski@iee.uz.zgora.pl or https://www.linkedin.com/in/mariuszbuciakowski/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 buciakowski-research/buciakowski-research is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
