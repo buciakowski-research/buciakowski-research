@@ -6,7 +6,10 @@ Regarding predictive maintenance and machine condition monitoring, the scope of 
 Implementing digital solutions in the realm of Industry 4.0 is another area of activity where I actively participate in projects, integrating technologies to enhance production efficiency, system integration, and enabling remote monitoring and management.
 Additionally, I engage in data engineering, encompassing the collection, processing, and analysis of industrial data. Activities also include designing data infrastructure, utilizing data analysis tools, and strategies for obtaining valuable insights from various sources.
 Regarding research activities in the field, my main focus lies in two areas. The first involves analyzing and modeling processes to implement fault detection systems that enable the identification of issues in machinery and industrial processes. The second research aspect pertains to analyzing microgrid interaction with the power grid and controlling power flow in microgrids. To accomplish these tasks, I utilize widely available analytical tools and computational packages, as well as elements of machine learning.
-- 🌱 Currently, I am working on technical aspects related to electromobility and green energy by analyzing the impact of devices used in microgrids equipped with renewable energy sources, energy storage systems, and electric vehicle charging stations on the power system.
+
+## 🌱 What am I currently working on?
+- Currently, I am working on technical aspects related to electromobility and green energy by analyzing the impact of devices used in microgrids equipped with renewable energy sources, energy storage systems, and electric vehicle charging stations on the power system.
+
 - 💞️ I'm seeking collaboration to conduct practical analyses on the impact of microgrids equipped with renewable energy sources on the energy network. The goal is to optimize the operation of devices within this network by developing dedicated control algorithms.
 ## 📫 Where you can find me?
 On the official profile [LinkedIn](https://www.linkedin.com/in/mariuszbuciakowski/)
