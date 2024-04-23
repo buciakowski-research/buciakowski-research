@@ -23,7 +23,7 @@ Currently I am working on [The Uniweristy Of Zielona Gra](https://uz.zgora.pl/en
 [Poland’s first energy storage for a bus depot](https://ekoenergetyka.com.pl/polands-first-energy-storage-for-a-bus-depot-eko-bess-from-ekoenergetyka-polska-s-a/?utm_source=linkedin&utm_medium=link&utm_campaign=energy-storage)
 
 
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/alsiam/itasks](https://github.com/buciakowski-research/parquet-vs-csv))
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&parquet-vs-csv=&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/alsiam/itasks](https://github.com/buciakowski-research/parquet-vs-csv))
 
 <!---
 buciakowski-research/buciakowski-research is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
