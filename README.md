@@ -17,14 +17,14 @@ I'm seeking collaboration to conduct practical analyses on the impact of microgr
 ## 💻 What programming languages do I use at work?
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,matlab,r,octave,mysql,sqlite,postgres" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,matlab,r,octave" />
   </a>
 </p>
 
 ## 🔨 What tools do I use at work?
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,anaconda,git" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,anaconda,git,mysql,sqlite,postgres" />
   </a>
 </p>
 
