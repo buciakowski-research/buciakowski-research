@@ -24,7 +24,7 @@ I'm seeking collaboration to conduct practical analyses on the impact of microgr
 ## 🔨 What tools do I use at work?
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,anaconda" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,anaconda,git" />
   </a>
 </p>
 
