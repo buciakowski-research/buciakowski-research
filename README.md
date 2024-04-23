@@ -14,14 +14,14 @@ Currently, I am working on technical aspects related to electromobility and gree
 ## 💞️ Who am I looking for?
 I'm seeking collaboration to conduct practical analyses on the impact of microgrids equipped with renewable energy sources on the energy network. The goal is to optimize the operation of devices within this network by developing dedicated control algorithms.
 
-## What programming languages do I use at work?
+## 💻 What programming languages do I use at work?
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,cpp,matlab,r,octave" />
   </a>
 </p>
 
-## What tools do I use at work?
+## :hammer: What tools do I use at work?
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
