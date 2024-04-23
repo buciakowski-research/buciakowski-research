@@ -8,9 +8,11 @@ Additionally, I engage in data engineering, encompassing the collection, process
 Regarding research activities in the field, my main focus lies in two areas. The first involves analyzing and modeling processes to implement fault detection systems that enable the identification of issues in machinery and industrial processes. The second research aspect pertains to analyzing microgrid interaction with the power grid and controlling power flow in microgrids. To accomplish these tasks, I utilize widely available analytical tools and computational packages, as well as elements of machine learning.
 
 ## 🌱 What am I currently working on?
-- Currently, I am working on technical aspects related to electromobility and green energy by analyzing the impact of devices used in microgrids equipped with renewable energy sources, energy storage systems, and electric vehicle charging stations on the power system.
+Currently, I am working on technical aspects related to electromobility and green energy by analyzing the impact of devices used in microgrids equipped with renewable energy sources, energy storage systems, and electric vehicle charging stations on the power system.
 
-- 💞️ I'm seeking collaboration to conduct practical analyses on the impact of microgrids equipped with renewable energy sources on the energy network. The goal is to optimize the operation of devices within this network by developing dedicated control algorithms.
+## 💞️ Who am I looking for?
+I'm seeking collaboration to conduct practical analyses on the impact of microgrids equipped with renewable energy sources on the energy network. The goal is to optimize the operation of devices within this network by developing dedicated control algorithms.
+
 ## 📫 Where you can find me?
 On the official profile [LinkedIn](https://www.linkedin.com/in/mariuszbuciakowski/)
 
@@ -19,6 +21,10 @@ Currently I am working on [The Uniweristy Of Zielona Gra](https://uz.zgora.pl/en
 
 ### 📺 Projects
 [Poland’s first energy storage for a bus depot](https://ekoenergetyka.com.pl/polands-first-energy-storage-for-a-bus-depot-eko-bess-from-ekoenergetyka-polska-s-a/?utm_source=linkedin&utm_medium=link&utm_campaign=energy-storage)
+
+
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/alsiam/itasks](https://github.com/buciakowski-research/parquet-vs-csv))
+
 <!---
 buciakowski-research/buciakowski-research is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
