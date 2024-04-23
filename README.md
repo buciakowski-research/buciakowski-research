@@ -21,13 +21,12 @@ I'm seeking collaboration to conduct practical analyses on the impact of microgr
   </a>
 </p>
 
-## :hammer: What tools do I use at work?
+## 🔨 What tools do I use at work?
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
   </a>
 </p>
-
 
 ## 📫 Where you can find me?
 On the official profile [LinkedIn](https://www.linkedin.com/in/mariuszbuciakowski/)
