@@ -7,7 +7,7 @@ Regarding predictive maintenance and machine condition monitoring, the scope of 
 Implementing digital solutions in the realm of Industry 4.0 is another area of activity where I actively participate in projects, integrating technologies to enhance production efficiency, system integration, and enabling remote monitoring and management.
 Additionally, I engage in data engineering, encompassing the collection, processing, and analysis of industrial data. Activities also include designing data infrastructure, utilizing data analysis tools, and strategies for obtaining valuable insights from various sources.
 
-![Static Badge](https://img.shields.io/badge/digitization-8A2BE2) ![Static Badge](https://img.shields.io/badge/process%20optimization-8A2BE2) ![Static Badge](https://img.shields.io/badge/predictive%20maintenance-8A2BE2) ![Static Badge](https://img.shields.io/badge/control-8A2BE2) ![Static Badge](https://img.shields.io/badge/process%20control-8A2BE2) ![Static Badge](https://img.shields.io/badge/data%20engineering-8A2BE2)
+![Static Badge](https://img.shields.io/badge/digitization-8A2BE2) ![Static Badge](https://img.shields.io/badge/process%20optimization-8A2BE2) ![Static Badge](https://img.shields.io/badge/predictive%20maintenance-8A2BE2) ![Static Badge](https://img.shields.io/badge/process%20control-8A2BE2) ![Static Badge](https://img.shields.io/badge/data%20engineering-8A2BE2)
 
 ## 🌱 What am I currently working on?
 Currently, I am working on technical aspects related to electromobility and green energy by analyzing the impact of devices used in microgrids equipped with renewable energy sources, energy storage systems, and electric vehicle charging stations on the power system.
