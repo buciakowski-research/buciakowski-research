@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @buciakowski-research
+<h1 align="center">Hi, I’m @buciakowski-research</h1>
+
 ## 👀 What is my area?
 In my work, I focus on advanced aspects related to control engineering and digitization. The main areas of activity include designing control algorithms, industrial process optimization strategies, predictive maintenance, implementing digital solutions in Industry 4.0, and data engineering.
 In the realm of designing control algorithms and optimization strategies, efforts are concentrated on developing efficient solutions that enable process control to meet specified requirements while also aiming for optimization based on defined criteria. I also work on designing visual interfaces for effective monitoring and control of systems.
@@ -21,9 +22,6 @@ Currently I am working on [The Uniweristy Of Zielona Gra](https://uz.zgora.pl/en
 
 ### 📺 Projects
 [Poland’s first energy storage for a bus depot](https://ekoenergetyka.com.pl/polands-first-energy-storage-for-a-bus-depot-eko-bess-from-ekoenergetyka-polska-s-a/?utm_source=linkedin&utm_medium=link&utm_campaign=energy-storage)
-
-
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&parquet-vs-csv=&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/alsiam/itasks](https://github.com/buciakowski-research/parquet-vs-csv))
 
 <!---
 buciakowski-research/buciakowski-research is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
