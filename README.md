@@ -29,7 +29,7 @@ I'm seeking collaboration to conduct practical analyses on the impact of microgr
 </p>
 
 ## 📫 Where you can find me?
-On the official profile [LinkedIn](https://www.linkedin.com/in/mariuszbuciakowski/)
+On the official [LinkedIn](https://www.linkedin.com/in/mariuszbuciakowski/) profile
 
 ## 🤓 Company
 Currently I am working on [The Uniweristy Of Zielona Gra](https://uz.zgora.pl/en/)
