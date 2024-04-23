@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I’m @buciakowski-research</h1>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/:buciakowski-research/:repositories)
-
 ## 👀 What is my area?
 In my work, I focus on advanced aspects related to control engineering and digitization. The main areas of activity include designing control algorithms, industrial process optimization strategies, predictive maintenance, implementing digital solutions in Industry 4.0, and data engineering.
 In the realm of designing control algorithms and optimization strategies, efforts are concentrated on developing efficient solutions that enable process control to meet specified requirements while also aiming for optimization based on defined criteria. I also work on designing visual interfaces for effective monitoring and control of systems.
@@ -19,7 +17,7 @@ I'm seeking collaboration to conduct practical analyses on the impact of microgr
 ## What programming languages do I use at work?
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,matlab" />
   </a>
 </p>
 
