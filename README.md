@@ -33,7 +33,7 @@ I'm seeking collaboration to conduct practical analyses on the impact of microgr
 On the official [LinkedIn](https://www.linkedin.com/in/mariuszbuciakowski/) profile
 
 ## 🤓 Company
-Currently I am working on [The Uniweristy Of Zielona Góra](https://uz.zgora.pl/en/)
+Currently I am working on [The University Of Zielona Góra](https://uz.zgora.pl/en/)
 
 ### 📺 Projects
 [Poland’s first energy storage for a bus depot](https://ekoenergetyka.com.pl/polands-first-energy-storage-for-a-bus-depot-eko-bess-from-ekoenergetyka-polska-s-a/?utm_source=linkedin&utm_medium=link&utm_campaign=energy-storage)
