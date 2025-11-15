@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I’m @buciakowski-research</h1>
+<h1 align="center">Mariusz Buciakowski</h1>
+<h1 align="center">Research</h1>
 
 ## 👀 What is my area?
 In my work, I focus on advanced aspects related to control engineering and digitization. The main areas of activity include designing control algorithms, industrial process optimization strategies, predictive maintenance, implementing digital solutions in Industry 4.0, and data engineering.
